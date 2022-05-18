@@ -1,7 +1,8 @@
 # limanmysTaskManagement
 #havelsanhackathon
 
-[limanmys.pptx](https://github.com/RumeysaCeylan/limanmysTaskManagement/files/8715481/limanmys.pptx)
+[limanmys (1).pptx](https://github.com/RumeysaCeylan/limanmysTaskManagement/files/8715604/limanmys.1.pptx)
+
 
 
 ![12](https://user-images.githubusercontent.com/59581456/169019733-38138ff3-1136-404f-ad97-d91db6e85687.png)
