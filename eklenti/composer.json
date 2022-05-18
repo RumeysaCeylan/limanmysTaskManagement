@@ -1,0 +1,23 @@
+{
+	"name": "limanmys/Eklenti",
+	"description": "Eklenti",
+	"type": "project",
+	"authors": [
+		{
+			"name": "Rümeysa Ceylan",
+			"email": "rumeysaceylan0619@gmail.com"
+		}
+	],
+	"require": {},
+	"autoload": {
+		"files": [
+			"app/Helpers/Helpers.php"
+		],
+		"psr-4": {
+			"App\\": "app"
+		},
+		"classmap": [
+			"app"
+		]
+	}
+}

@@ -1,0 +1,14 @@
+{
+    "name": "Eklenti",
+    "publisher": "Rümeysa Ceylan",
+    "version": "0.0.1",
+    "version_code": 1,
+    "database": [],
+    "widgets": [],
+    "language": "php",
+    "status": 0,
+    "service": "",
+    "supportedLiman": "1.9",
+    "support": "rumeysaceylan0619@gmail.com",
+    "icon": ""
+}
